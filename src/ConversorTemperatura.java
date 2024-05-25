@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ConversorTemperatura {
-    public static void main(String args []){
+    public static void main(String[] args){
         System.out.println("hola mundo");
 
         int celsius = 0;
